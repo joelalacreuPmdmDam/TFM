@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\TFM_Carlet\\API\\RoncaFitAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC71946-5E0D-43B0-942A-C1A330DF2438}|EmptyRestAPI\\EmptyRestAPI.csproj|e:\\tfm_carlet\\api\\roncafitapi\\emptyrestapi\\controllers\\instructorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC71946-5E0D-43B0-942A-C1A330DF2438}|EmptyRestAPI\\EmptyRestAPI.csproj|solutionrelative:emptyrestapi\\controllers\\instructorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC71946-5E0D-43B0-942A-C1A330DF2438}|EmptyRestAPI\\EmptyRestAPI.csproj|e:\\tfm_carlet\\api\\roncafitapi\\emptyrestapi\\resources\\tablonactividadesresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC71946-5E0D-43B0-942A-C1A330DF2438}|EmptyRestAPI\\EmptyRestAPI.csproj|solutionrelative:emptyrestapi\\resources\\tablonactividadesresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC71946-5E0D-43B0-942A-C1A330DF2438}|EmptyRestAPI\\EmptyRestAPI.csproj|e:\\tfm_carlet\\api\\roncafitapi\\emptyrestapi\\controllers\\tablonactividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC71946-5E0D-43B0-942A-C1A330DF2438}|EmptyRestAPI\\EmptyRestAPI.csproj|solutionrelative:emptyrestapi\\controllers\\tablonactividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DC71946-5E0D-43B0-942A-C1A330DF2438}|EmptyRestAPI\\EmptyRestAPI.csproj|e:\\tfm_carlet\\api\\roncafitapi\\emptyrestapi\\models\\tablonactividadesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DC71946-5E0D-43B0-942A-C1A330DF2438}|EmptyRestAPI\\EmptyRestAPI.csproj|solutionrelative:emptyrestapi\\models\\tablonactividadesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InstructoresController.cs",
+              "DocumentMoniker": "E:\\TFM_Carlet\\API\\RoncaFitAPI\\EmptyRestAPI\\Controllers\\InstructoresController.cs",
+              "RelativeDocumentMoniker": "EmptyRestAPI\\Controllers\\InstructoresController.cs",
+              "ToolTip": "E:\\TFM_Carlet\\API\\RoncaFitAPI\\EmptyRestAPI\\Controllers\\InstructoresController.cs",
+              "RelativeToolTip": "EmptyRestAPI\\Controllers\\InstructoresController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAUwGEAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:34:32.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TablonActividadesController.cs",
+              "DocumentMoniker": "E:\\TFM_Carlet\\API\\RoncaFitAPI\\EmptyRestAPI\\Controllers\\TablonActividadesController.cs",
+              "RelativeDocumentMoniker": "EmptyRestAPI\\Controllers\\TablonActividadesController.cs",
+              "ToolTip": "E:\\TFM_Carlet\\API\\RoncaFitAPI\\EmptyRestAPI\\Controllers\\TablonActividadesController.cs",
+              "RelativeToolTip": "EmptyRestAPI\\Controllers\\TablonActividadesController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDAAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:41:08.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TablonActividadesResource.cs",
+              "DocumentMoniker": "E:\\TFM_Carlet\\API\\RoncaFitAPI\\EmptyRestAPI\\Resources\\TablonActividadesResource.cs",
+              "RelativeDocumentMoniker": "EmptyRestAPI\\Resources\\TablonActividadesResource.cs",
+              "ToolTip": "E:\\TFM_Carlet\\API\\RoncaFitAPI\\EmptyRestAPI\\Resources\\TablonActividadesResource.cs",
+              "RelativeToolTip": "EmptyRestAPI\\Resources\\TablonActividadesResource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:42:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TablonActividadesModel.cs",
+              "DocumentMoniker": "E:\\TFM_Carlet\\API\\RoncaFitAPI\\EmptyRestAPI\\Models\\TablonActividadesModel.cs",
+              "RelativeDocumentMoniker": "EmptyRestAPI\\Models\\TablonActividadesModel.cs",
+              "ToolTip": "E:\\TFM_Carlet\\API\\RoncaFitAPI\\EmptyRestAPI\\Models\\TablonActividadesModel.cs",
+              "RelativeToolTip": "EmptyRestAPI\\Models\\TablonActividadesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T13:29:24.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
